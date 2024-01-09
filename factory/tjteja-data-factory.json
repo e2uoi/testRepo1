@@ -1,0 +1,9 @@
+{
+	"name": "tjteja-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d3837e1-29c2-4e3c-b62e-bd53e312574a",
+		"tenantId": "51311219-d212-4053-87a1-2b8ff7ec82ab"
+	}
+}
